@@ -1,0 +1,69 @@
+.btn-utama {
+  background-color: #b03052;
+  color: white;
+}
+.btn-utama:hover {
+  background-color: #3D0301;
+  color: white;
+}
+.utama {
+  color: #b03052;
+}
+* {
+  font-family: "Poppins", sans-serif;
+}
+.background {
+  background-image: url("../img/Vect.png");
+  height: 680px;
+}
+.sideactive {
+  background: #b03052;
+  height: 100%;
+}
+.sidebar {
+  color: #000000;
+  text-decoration: none;
+  width: 100%;
+}
+.sidebar:hover {
+  color: #3D0301;
+}
+.sidebar.active {
+  color: #ffffff;
+  text-decoration: none;
+}
+.table {
+  font-size: 12px;
+}
+.hasil {
+  width: 100%;
+  background: #7ED4AD;
+  color: #ffffff;
+}
+.hasilnya {
+  background-color: #fff7e7;
+  text-align: center;
+  border: 2px solid #7ED4AD;
+}
+p {
+  font-size: 14px;
+}
+@media (min-width: 768px) {
+  .garis {
+    display: none;
+  }
+}
+
+.btn-baca {
+  background: #7ED4AD;
+  color: #ffffff;
+}
+.btn-baca:hover {
+  background: #4aa87e;
+  color: #ffffff;
+}
+
+.footer {
+  background: #b03052;
+  color: white;
+}
